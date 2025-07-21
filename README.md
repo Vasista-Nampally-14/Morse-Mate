@@ -58,10 +58,9 @@ venv\Scripts\activate
 python app.py
 
 ```
-
 --- 
-```md
 ## 📂 Project Structure
+```md
 morsemate/
 ├── app.py                # Main app
 ├── README.md
@@ -76,15 +75,19 @@ morsemate/
 │       └── morse_mate.png
 
 ```
+---
 ## 📚 Learning Resources
+```md
 The docs/ folder contains helpful guides:
 📖 What is Morse Code?
 📖 How to Use the App
 📖 Feature Guide
 📖 Fun Facts
 📖 Python Concepts behind the app
-
-
+```
+---
 ## 🧡 Credits
+```md
 Developed by Vasista Nampally.
 If you enjoy this app, please ⭐ star the repo & share it with others!
+```
