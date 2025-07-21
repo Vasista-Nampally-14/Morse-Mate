@@ -1,0 +1,8 @@
+📖 What is Morse Code?
+
+Morse code is a system of communication that uses a series of dots (short signals) and dashes (long signals) to represent letters, numbers, and symbols.  
+
+It was invented in the 1830s by Samuel Morse and Alfred Vail and became widely used in telegraphy. Morse code enabled people to send messages across great distances almost instantly — long before telephones or the internet existed.
+
+✅ Fun fact:
+Even today, Morse code is still used in aviation, amateur radio, and as a fun way to encode secret messages!

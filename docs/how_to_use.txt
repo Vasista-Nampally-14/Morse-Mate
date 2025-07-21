@@ -1,0 +1,13 @@
+🛠️ How to Use the App
+
+This app lets you learn and play with Morse code in a fun and interactive way.  
+
+✅ Steps:
+✓ Type text in the input box and click 'Text→Morse' to convert to Morse.
+✓ Type Morse code (with spaces) and click 'Morse→Text' to convert to text.
+✓ Use 'Auto Convert' and the app detects automatically.
+✓ Enable 'Auto-play' to hear beeps.
+✓ Adjust dot, dash, and frequency from the options panel.
+✓ Use the Tools and Learn menus for more features and learning.
+
+Tip: Use '/' or the custom mapping symbol for space in Morse.

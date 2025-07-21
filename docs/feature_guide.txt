@@ -1,0 +1,34 @@
+🧰 Feature Guide
+
+Here are all the features you can try in the app:
+
+✅ Conversions:
+- Text → Morse code
+- Morse code → Text
+- Auto detect and convert
+
+✅ Playback & Visualization:
+- Play Morse sounds (dots and dashes) at adjustable frequency and speed
+- Visualize Morse as flashing rectangles
+
+✅ Customization:
+- Change dot and dash durations
+- Change frequency
+- Customize the symbol used for word space (default is `/`)
+- Toggle light/dark theme
+
+✅ Tools:
+- View statistics (number of dots and dashes used)
+- Reverse playback
+- Random Morse challenge
+- Save and load sessions
+- Copy output to clipboard
+- Save output as text or JSON
+
+✅ Learning:
+- Learn about Morse code
+- Learn how to use the app
+- Fun facts about Morse
+- Python concepts behind the app
+
+Explore, learn, and have fun!
